@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-
+# 外观设置
 appearance:
   theme_day: minimal
   theme_night:
@@ -12,40 +12,57 @@ appearance:
   font_size: L
 
 # SEO
-
+#搜索引擎优化
 marketing:
-  seo:
-    site_type: Organization
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    google_tag_manager: ''
-    microsoft_clarity: ''
-  verification:
-    google: ''
-    baidu: ''
+  en:
+    seo:
+      site_type: Organization
+      local_business_type: ''
+      org_name: 'My Research Group'
+      description: 'Welcome to our research group website powered by Wowchemy.'
+      twitter: 'GetResearchDev'
+    analytics:
+      google_analytics: ''
+      baidu_tongji: ''
+      google_tag_manager: ''
+      microsoft_clarity: ''
+    verification:
+      google: ''
+      baidu: ''
+  zh:
+    seo:
+      site_type: Organization
+      local_business_type: ''
+      org_name: '我的研究组'
+      description: '欢迎访问我们的研究组网站，由 Wowchemy 构建。'
+      twitter: 'GetResearchDev'
+    analytics:
+      google_analytics: ''
+      baidu_tongji: ''
+      google_tag_manager: ''
+      microsoft_clarity: ''
+    verification:
+      google: ''
+      baidu: ''
+
 
 # Site header
-
+# 页眉配置
 header:
   navbar:
     enable: true
     align: r
     show_logo: true
-    show_language: false
+    show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: false
 
 # Site footer
-
+# 页脚配置
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} ihcil. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -53,14 +70,19 @@ footer:
       allow_commercial: false
 
 # Localization
-
+# 本地化
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-  address_format: en-us
+   en:
+    date_format: 'Jan 2, 2006'
+    time_format: '3:04 PM'
+    address_format: en-us
+  zh:
+    date_format: '2006年1月2日'
+    time_format: '15:04'
+    address_format: zh-cn
 
 # Site features
-
+# 站点功能
 features:
   syntax_highlighter:
     enable: false
@@ -72,7 +94,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/MrFangyulong/MrFangyulong.github.io'
     content_dir: content
     branch: main
   avatar:
@@ -103,7 +125,7 @@ features:
     zoom: 15
 
 # Extensions
-
+# 扩展模块
 extensions:
   decap_cms:
     branch: main
@@ -112,7 +134,7 @@ extensions:
     enable: true
 
 # Citation style
-
+# 引用风格
 publications:
   date_format: January 2006
   citation_style: apa

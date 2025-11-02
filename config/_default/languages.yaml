@@ -6,7 +6,7 @@
 en:
   languageCode: en-us
   contentDir: content/en
-  title: My Research Group
+  title: ihcil
   params:
     description: Welcome to our research site.
   menu:
@@ -24,7 +24,7 @@ en:
 zh:
   languageCode: zh-Hans
   contentDir: content/zh
-  title: 我的研究组
+  title: ihcil
   params:
     description: 欢迎访问我们的研究主页。
   menu:

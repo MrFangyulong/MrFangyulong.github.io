@@ -1,22 +1,22 @@
 ---
 # Display name
-title: Zhilin Xu
+title: Ziming Ji
 
 # Full name (for SEO)
-first_name: Zhilin
-last_name: Xu
+first_name: Ziming
+last_name: Ji
 
 # Username (this should match the folder name)
 authors:
-  - Zhilin Xu
+  - Ziming Ji
 
 # Is this the primary user of the site?
 superuser: false
 
-index: "Master2304"
+index: "Master2501"
 
 # Role/position
-role: Master Student in 2023
+role: Master Student in 2025
 
 # Organizations/Affiliations
 organizations:
@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zsy15668332717@163.com'
+    link: 'mailto:2322762993@qq.com'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -77,8 +77,8 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I am a master's degree candidate in Computer Technology at Ocean University of China, and my research focus is on Artificial Intelligence Oceanography.
+I am a master's student at Ocean University of China under the supervision of Professor Zhang Wei. Prior to this, I earned my Bachelor's degree in Computer Science and Technology from Nanjing University of Information Science and Technology in 2025. My research focuses on convective storm nowcasting.
 
-**Email**:xuzhilin@stu.ouc.edu.cn
+**Email**:2322762993@qq.com
 </div>
 

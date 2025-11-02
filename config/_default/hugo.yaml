@@ -11,8 +11,8 @@ baseURL: 'https://ihcil.com/' # Website URL
 # 语言设置
 
 defaultContentLanguage: en
-hasCJKLanguage: true
-defaultContentLanguageInSubdir: true
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 # ADVANCED

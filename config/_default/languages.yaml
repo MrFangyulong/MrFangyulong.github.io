@@ -9,17 +9,7 @@ en:
   title: ihcil
   params:
     description: Welcome to our research site.
-  menu:
-    main:
-      - name: About
-        url: '#about'
-        weight: 1
-      - name: Research
-        url: '#research'
-        weight: 2
-      - name: Publications
-        url: '#publications'
-        weight: 3
+
 
 zh:
   languageCode: zh-Hans
@@ -27,14 +17,4 @@ zh:
   title: ihcil
   params:
     description: 欢迎访问我们的研究主页。
-  menu:
-    main:
-      - name: 关于我们
-        url: '#about'
-        weight: 1
-      - name: 研究方向
-        url: '#research'
-        weight: 2
-      - name: 发表论文
-        url: '#publications'
-        weight: 3
+  

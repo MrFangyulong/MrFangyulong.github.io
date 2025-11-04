@@ -1,80 +1,62 @@
 ---
-# Display name
+# 显示名称
 title: 张巍
 
-# Full name (for SEO)
+# 全名（用于SEO优化）
 first_name: 巍
 last_name: 张
 
-# Username (this should match the folder name)
+# 用户名（应与文件夹名相同）
 authors:
   - 张巍
 
-# Is this the primary user of the site?
+# 是否为网站的主要用户（true 表示网站所有者）
 superuser: false
 
-# Role/position
-role: Profession
+# 职称/职位
+role: 教授
 
-# Organizations/Affiliations
+# 所属机构
 organizations:
-  - name: Ocean University of China
+  - name: 中国海洋大学
     url: 'https://www.ouc.edu.cn/'
 
-# Short bio (displayed in user profile at end of posts)
-# bio: Yanwei Yu is a professor in the College of Computer Science and Technology of Ocean University of China. He received the B.S. degree from Liaocheng University, China, in 2008 and the Ph.D. degree from University of Science and Technology Beijing, China, in 2014, respectively. From 2012 to 2013, he was a visiting Ph.D. student at the Department of Computer Science of Worcester Polytechnic Institute. From 2016 to 2018, he was a postdoc researcher at the College of Information Sciences and Technology of Pennsylvania State University. His research interests include data mining, machine learning, distributed computing, and database systems. He published more than 60 papers in TODS, TKDD, TBD, KDD, WWW, AAAI, IJCAI, UbiComp, ICDE, CIKM, DASFAA, and other top journals and conferences. His research is funded by the National Natural Science Foundation of China, the National Science Foundations, the Natural Science Foundation of Shandong Province, and the Shandong Provincial Key R&D Program.
+# 简介（可在个人简介或团队页面中显示）
+bio: 张巍，中国海洋大学教授，主要研究方向包括数据挖掘、机器学习、分布式计算与数据库系统。
 
+# 研究兴趣（如果 People 页面设置为 show_interests: true 才会显示）
 # interests:
-#   - Data Mining
-#   - Machine Learning
-#   - Distributed Computing
-#   - Database Systems
+#   - 数据挖掘
+#   - 机器学习
+#   - 分布式计算
+#   - 数据库系统
 
+# 学历（可选）
 # education:
 #   courses:
-#     - course: PhD in Artificial Intelligence
-#       institution: Stanford University
-#       year: 2012
-#     - course: MEng in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2009
-#     - course: BSc in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
+#     - course: 博士
+#       institution: 北京科技大学
+#       year: 2014
+#     - course: 本科
+#       institution: 聊城大学
 #       year: 2008
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+# 社交与学术链接
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'weizhang@ouc.edu.cn'
+    link: 'mailto:weizhang@ouc.edu.cn'
   - icon: ai
     icon_pack: ai
     link: https://weizhang.github.io/index.html
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/songchenlong
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+    link: https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=zh-CN
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+# 邮箱（可用于 Gravatar 或联系）
 email: 'weizhang@ouc.edu.cn'
 
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+# 成员分组（用于 People 页面显示）
 user_groups:
   - 教授
 ---
-
-**Email**: weizhang@ouc.edu.cn
-</div>
-

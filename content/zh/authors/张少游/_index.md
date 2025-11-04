@@ -77,11 +77,11 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-Hello! I’m Zhang Shaoyou, a student at Ocean University of China, supervised by Professor Zhang Wei.
+你好！我是张少游，就读于中国海洋大学，师从张巍教授。
 
-My research interests focus on artificial intelligence and deep learning, particularly in neural network architectures and model optimization.I have a strong foundation in Python programming and extensive hands-on experience in reproducing and improving models.Beyond research and coding, I enjoy exploring emerging technologies, collaborating with others, and sharing insights within the AI community.
+我的研究兴趣主要集中在人工智能与深度学习领域，特别关注神经网络结构与模型优化。我具备扎实的 Python 编程基础，并拥有丰富的实践经验，在科研与编程之外，我热衷于探索新兴技术、与他人合作交流，并在人工智能社区中分享经验与见解。
 
-Driven by curiosity and persistence, I strive to contribute to the advancement of intelligent systems through continuous learning and innovation.
+秉持着好奇心与持续学习的精神，我希望能通过不断实践与创新，为智能系统的发展贡献力量。
 
 **Email**:zsy15668332717@163.com
 </div>

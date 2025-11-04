@@ -13,7 +13,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-index: "Master2302"
+# index: "Master2302"
 
 # Role/position
 role: Master Student in 2023

@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Jiaxing Zhang
+title: 李丽园
 
 # Full name (for SEO)
-first_name: Jiaxing
-last_name: Zhang
+first_name: 丽园
+last_name: 李
 
 # Username (this should match the folder name)
 authors:
-  - Mengke Zhang
+  - 李丽园
 
 # Is this the primary user of the site?
 superuser: false
 
-index: "Master2306"
+# index: "Master2502"
 
 # Role/position
-role: Master Student in 2023
+role: 2025级研究生
 
 # Organizations/Affiliations
 organizations:
-  - name: Ocean University of China
+  - name: 中国海洋大学
     url: 'https://www.ouc.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zhangjiaxing@stu.ouc.edu.cn'
+    link: 'mailto:lly4175@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -72,13 +72,13 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - 研究生
 ---
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-My name is Zhang Jiaxing. I am male and I have a passion for music. I am currently unmarried. I am a master's student in software engineering at OUC, graduating in 2026. My research focus is on satellite inversion studies. I have published a paper in the ICGIP conference. My academic focus has mainly been on embedded systems, and currently, I am engaged in GPU driver-related work.
+I am a master's student at Ocean University of China under the supervision of Professor Zhang Wei. Prior to this, I earned my Bachelor's degree in Computer Science and Technology from the School of Computer Science and Technology at Shandong Jianzhu University in 2021. My research focuses on severe convection nowcasting
 
-**Email**:zhangjiaxing@stu.ouc.edu.cn
+**Email**:lly4175@stu.ouc.edu.cn
 </div>
 

@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Yiyue Wang
+title: 王林涛
 
 # Full name (for SEO)
-first_name: Yiyue
-last_name: Wang
+first_name: 林涛
+last_name: 王
 
 # Username (this should match the folder name)
 authors:
-  - Yiyue
+  - 王林涛
 
 # Is this the primary user of the site?
 superuser: false
 
-index: "Master2503"
+# index: "Master2301"
 
 # Role/position
-role: Master Student in 2025
+role: 2023级研究生
 
 # Organizations/Affiliations
 organizations:
-  - name: Ocean University of China
+  - name: 中国海洋大学
     url: 'https://www.ouc.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:lly4175@stu.ouc.edu.cn'
+    link: 'mailto:wlt@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -72,13 +72,13 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - 研究生
 ---
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I am a first-year graduate student in the Synthetic Weather Radar Group.
+I am currently pursuing my Master's degree at Ocean University of China, where I am under the guidance of Professor Zhang Wei. Prior to this, I completed my Bachelor's degree in Information Security at the School of Computer Science and Technology, Qingdao University, graduating in 2023. My current research focuses on severe convective nowcasting
 
-**Email**:lly4175@stu.ouc.edu.cn
+**Email**:wlt@stu.ouc.edu.cn
 </div>
 

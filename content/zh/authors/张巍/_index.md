@@ -11,7 +11,7 @@ authors:
   - 张巍
 
 # 是否为网站的主要用户（true 表示网站所有者）
-superuser: false
+superuser: true
 
 # 职称/职位
 role: 教授

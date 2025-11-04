@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Huaihao Liu
+title: 王凯龙
 
 # Full name (for SEO)
-first_name: Huaihao
-last_name: Liu
+first_name: 凯龙
+last_name: 王
 
 # Username (this should match the folder name)
 authors:
-  - Huaihao Liu
+  - 王凯龙
 
 # Is this the primary user of the site?
 superuser: false
 
-index: "Master2404"
+# index: "Master2302"
 
 # Role/position
-role: Master Student in 2024
+role: 2023级研究生
 
 # Organizations/Affiliations
 organizations:
-  - name: Ocean University of China
+  - name: 中国海洋大学
     url: 'https://www.ouc.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:1072116624@qq.com'
+    link: 'mailto:w1842678637@163.com'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -72,14 +72,13 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - 研究生
 ---
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I am currently a graduate student in Computer Technology at Ocean University of China, under the supervision of Professor Wei Zhang. I received my Bachelor’s degree in Intelligent Science and Technology from China University of Petroleum .
-My research focuses on Artificial Intelligence in Meteorology, where I aim to advance weather data analysis and forecasting through deep learning and computer vision techniques.
+My name is Cayron, a Master's student at Ocean University of China. My research in Professor Zhang Wei's lab, ihcil, centers on AI-driven nowcasting of severe convective weather. I have a strong passion for both scientific inquiry and life.
 
-**Email**:1072116624@qq.com
+**Email**:w1842678637@163.com
 </div>
 

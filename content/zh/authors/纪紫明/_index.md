@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Ziming Ji
+title: 纪紫明
 
 # Full name (for SEO)
-first_name: Ziming
-last_name: Ji
+first_name: 紫明
+last_name: 纪
 
 # Username (this should match the folder name)
 authors:
-  - Ziming Ji
+  - 纪紫明
 
 # Is this the primary user of the site?
 superuser: false
 
-index: "Master2501"
+# index: "Master2501"
 
 # Role/position
-role: Master Student in 2025
+role: 2025级研究生
 
 # Organizations/Affiliations
 organizations:
-  - name: Ocean University of China
+  - name: 中国海洋大学
     url: 'https://www.ouc.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -72,7 +72,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - 研究生
 ---
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->

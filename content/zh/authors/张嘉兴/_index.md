@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Xianjun Wang
+title: 张嘉兴
 
 # Full name (for SEO)
-first_name: Xianjun
-last_name: Wang
+first_name: 嘉兴
+last_name: 张
 
 # Username (this should match the folder name)
 authors:
-  - Xianjun Wang
+  - 张嘉兴
 
 # Is this the primary user of the site?
 superuser: false
 
-index: "Master2402"
+# index: "Master2306"
 
 # Role/position
-role: Master Student in 2024
+role: 2023级研究生
 
 # Organizations/Affiliations
 organizations:
-  - name: Ocean University of China
+  - name: 中国海洋大学
     url: 'https://www.ouc.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:479960826@qq.com'
+    link: 'mailto:zhangjiaxing@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -72,13 +72,13 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - 研究生
 ---
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I am a second year graduate student conducting research on thunderstorm gusts in the radar inversion group.
+My name is Zhang Jiaxing. I am male and I have a passion for music. I am currently unmarried. I am a master's student in software engineering at OUC, graduating in 2026. My research focus is on satellite inversion studies. I have published a paper in the ICGIP conference. My academic focus has mainly been on embedded systems, and currently, I am engaged in GPU driver-related work.
 
-**Email**:479960826@qq.com
+**Email**:zhangjiaxing@stu.ouc.edu.cn
 </div>
 

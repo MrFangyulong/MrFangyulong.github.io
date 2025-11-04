@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Zhilin Xu
+title: 徐志林
 
 # Full name (for SEO)
-first_name: Zhilin
-last_name: Xu
+first_name: 志林
+last_name: 徐
 
 # Username (this should match the folder name)
 authors:
-  - Zhilin Xu
+  - 徐志林
 
 # Is this the primary user of the site?
 superuser: false
 
-index: "Master2304"
+# index: "Master2304"
 
 # Role/position
-role: Master Student in 2023
+role: 2023级研究生
 
 # Organizations/Affiliations
 organizations:
-  - name: Ocean University of China
+  - name: 中国海洋大学
     url: 'https://www.ouc.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -72,7 +72,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - 研究生
 ---
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->

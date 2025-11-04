@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Mengke Guo
+title: 刘怀豪
 
 # Full name (for SEO)
-first_name: Mengke
-last_name: Guo
+first_name: 怀豪
+last_name: 刘
 
 # Username (this should match the folder name)
 authors:
-  - Mengke Guo
+  - 刘怀豪
 
 # Is this the primary user of the site?
 superuser: false
 
-index: "Master2401"
+# index: "Master2404"
 
 # Role/position
-role: Master Student in 2024
+role: 2024级研究生
 
 # Organizations/Affiliations
 organizations:
-  - name: Ocean University of China
+  - name: 中国海洋大学
     url: 'https://www.ouc.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:gmk0629@163.com'
+    link: 'mailto:1072116624@qq.com'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -72,13 +72,14 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - 研究生
 ---
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I am currently a master\'s student at the School of Computer Science and Technology, Ocean University of China, under the supervision of Yanwei Yu. I obtained a Bachelor\'s degree in Geographic Information Science from Shandong Normal University in 2021.
+I am currently a graduate student in Computer Technology at Ocean University of China, under the supervision of Professor Wei Zhang. I received my Bachelor’s degree in Intelligent Science and Technology from China University of Petroleum .
+My research focuses on Artificial Intelligence in Meteorology, where I aim to advance weather data analysis and forecasting through deep learning and computer vision techniques.
 
-**Email**: gmk0629@163.com
+**Email**:1072116624@qq.com
 </div>
 

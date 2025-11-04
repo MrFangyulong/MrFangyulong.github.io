@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Kailong Wang
+title: 王奕月
 
 # Full name (for SEO)
-first_name: Kailong
-last_name: Wang
+first_name: 奕月
+last_name: 王
 
 # Username (this should match the folder name)
 authors:
-  - Kailong Wang
+  - 王奕月
 
 # Is this the primary user of the site?
 superuser: false
 
-index: "Master2302"
+# index: "Master2503"
 
 # Role/position
-role: Master Student in 2023
+role: 2025级研究生
 
 # Organizations/Affiliations
 organizations:
-  - name: Ocean University of China
+  - name: 中国海洋大学
     url: 'https://www.ouc.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:w1842678637@163.com'
+    link: 'mailto:lly4175@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -72,13 +72,13 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - 研究生
 ---
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-My name is Cayron, a Master's student at Ocean University of China. My research in Professor Zhang Wei's lab, ihcil, centers on AI-driven nowcasting of severe convective weather. I have a strong passion for both scientific inquiry and life.
+I am a first-year graduate student in the Synthetic Weather Radar Group.
 
-**Email**:w1842678637@163.com
+**Email**:lly4175@stu.ouc.edu.cn
 </div>
 

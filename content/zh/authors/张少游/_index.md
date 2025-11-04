@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Liyuan Li
+title: 张少游
 
 # Full name (for SEO)
-first_name: Liyuan
-last_name: Li
+first_name: 少游
+last_name: 张
 
 # Username (this should match the folder name)
 authors:
-  - Liyuan
+  - 张少游
 
 # Is this the primary user of the site?
 superuser: false
 
-index: "Master2502"
+# index: "Master2504"
 
 # Role/position
-role: Master Student in 2025
+role: 2025级研究生
 
 # Organizations/Affiliations
 organizations:
-  - name: Ocean University of China
+  - name: 中国海洋大学
     url: 'https://www.ouc.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:lly4175@stu.ouc.edu.cn'
+    link: 'mailto:zsy15668332717@163.com'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -72,13 +72,17 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - 研究生
 ---
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I am a master's student at Ocean University of China under the supervision of Professor Zhang Wei. Prior to this, I earned my Bachelor's degree in Computer Science and Technology from the School of Computer Science and Technology at Shandong Jianzhu University in 2021. My research focuses on severe convection nowcasting
+Hello! I’m Zhang Shaoyou, a student at Ocean University of China, supervised by Professor Zhang Wei.
 
-**Email**:lly4175@stu.ouc.edu.cn
+My research interests focus on artificial intelligence and deep learning, particularly in neural network architectures and model optimization.I have a strong foundation in Python programming and extensive hands-on experience in reproducing and improving models.Beyond research and coding, I enjoy exploring emerging technologies, collaborating with others, and sharing insights within the AI community.
+
+Driven by curiosity and persistence, I strive to contribute to the advancement of intelligent systems through continuous learning and innovation.
+
+**Email**:zsy15668332717@163.com
 </div>
 

@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 教授
+role: Profession
 
 # Organizations/Affiliations
 organizations:

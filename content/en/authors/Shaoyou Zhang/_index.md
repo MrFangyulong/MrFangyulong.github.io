@@ -77,11 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-Hello! I’m Zhang Shaoyou, a student at Ocean University of China, supervised by Professor Zhang Wei.
-
-My research interests focus on artificial intelligence and deep learning, particularly in neural network architectures and model optimization.I have a strong foundation in Python programming and extensive hands-on experience in reproducing and improving models.Beyond research and coding, I enjoy exploring emerging technologies, collaborating with others, and sharing insights within the AI community.
-
-Driven by curiosity and persistence, I strive to contribute to the advancement of intelligent systems through continuous learning and innovation.
+Hello! My name is Shaoyou Zhang, and I am currently a master's student at Ocean University of China, under the supervision of Professor Wei Zhang. I am a member of the Artificial Intelligence for Oceanography Research Group. My current research focuses on real-time bias correction in wind field forecasting. Driven by curiosity and a passion for continuous learning, I strive to contribute to the advancement of AI-driven ocean research through persistent practice and innovation.
 
 **Email**:zsy15668332717@163.com
 </div>

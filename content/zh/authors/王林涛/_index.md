@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I am currently pursuing my Master's degree at Ocean University of China, where I am under the guidance of Professor Zhang Wei. Prior to this, I completed my Bachelor's degree in Information Security at the School of Computer Science and Technology, Qingdao University, graduating in 2023. My current research focuses on severe convective nowcasting
+我目前在中国海洋大学攻读硕士学位，师从张巍教授。本科毕业于青岛大学计算机科学与技术学院信息安全专业，2023年获学士学位。我的研究方向主要集中于强对流天气的临近预报与相关智能气象分析技术研究。
 
 **Email**:wlt@stu.ouc.edu.cn
 </div>

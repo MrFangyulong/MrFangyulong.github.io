@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I am currently a master\'s student at the School of Computer Science and Technology, Ocean University of China, under the supervision of Yanwei Yu. I obtained a Bachelor\'s degree in Geographic Information Science from Shandong Normal University in 2021.
+我目前在中国海洋大学攻读硕士学位，师从张巍教授。本科毕业于郑州大学计算机科学与技术专业。我的研究方向主要包括海上强对流天气的临近预报与相关智能预测方法研究。
 
 **Email**: gmk0629@163.com
 </div>

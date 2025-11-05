@@ -77,7 +77,8 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I am currently a master\'s student at the School of Computer Science and Technology, Ocean University of China, under the supervision of Yanwei Yu. I obtained a Bachelor\'s degree in Geographic Information Science from Shandong Normal University in 2021.
+I am a master's student at Ocean University of China under the supervision of Professor Zhang
+ Wei.I received my Bachelor's degree in Computer Science and Technology from Zhengzhou University. My research is in the field of maritime severe convective weather nowcasting. 
 
 **Email**: gmk0629@163.com
 </div>

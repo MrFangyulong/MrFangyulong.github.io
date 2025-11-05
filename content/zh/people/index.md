@@ -20,7 +20,7 @@ sections:
       show_role: false
       show_social: false
 
- - block: markdown
+  - block: markdown
     content:
       title: Alumni
       text: |

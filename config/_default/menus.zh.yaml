@@ -17,9 +17,12 @@ main:
   - name: 活动
     url: event
     weight: 40
+  - name: 论文
+    url: papers
+    weight: 50
   - name: 研究成果
     url: research
-    weight: 50
+    weight: 60
   - name: 联系我们
     url: contact
-    weight: 60
+    weight: 70

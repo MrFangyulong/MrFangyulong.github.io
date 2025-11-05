@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I am a first-year graduate student in the Synthetic Weather Radar Group.
+我目前是中国海洋大学硕士一年级研究生，隶属于合成天气雷达研究团队，主要参与相关气象雷达技术与数据分析研究。
 
 **Email**:lly4175@stu.ouc.edu.cn
 </div>

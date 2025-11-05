@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I am a master's student at Ocean University of China under the supervision of Professor Zhang Wei. Prior to this, I earned my Bachelor's degree in Computer Science and Technology from the School of Computer Science and Technology at Shandong Jianzhu University in 2021. My research focuses on severe convection nowcasting
+我目前在中国海洋大学攻读硕士学位，师从张巍教授。本科毕业于山东建筑大学计算机科学与技术学院，2021年获计算机科学与技术学士学位。我的研究方向主要集中于强对流天气的临近预报与相关智能气象分析方法研究。
 
 **Email**:lly4175@stu.ouc.edu.cn
 </div>

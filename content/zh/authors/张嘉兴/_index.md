@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-My name is Zhang Jiaxing. I am male and I have a passion for music. I am currently unmarried. I am a master's student in software engineering at OUC, graduating in 2026. My research focus is on satellite inversion studies. I have published a paper in the ICGIP conference. My academic focus has mainly been on embedded systems, and currently, I am engaged in GPU driver-related work.
+我是张嘉星，现为中国海洋大学软件工程硕士研究生，预计于2026年毕业。我的研究方向主要集中在卫星反演，目前从事GPU驱动相关工作。学术上，我的研究兴趣涵盖嵌入式系统，并已在ICGIP会议上发表论文。此外，我热爱音乐，生活积极向上。
 
 **Email**:zhangjiaxing@stu.ouc.edu.cn
 </div>

@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-My name is Cayron, a Master's student at Ocean University of China. My research in Professor Zhang Wei's lab, ihcil, centers on AI-driven nowcasting of severe convective weather. I have a strong passion for both scientific inquiry and life.
+我叫王凯龙，是中国海洋大学的硕士研究生，师从张巍教授，隶属于智能人机计算与气象信息实验室（IHCLab）。我的研究主要聚焦于基于人工智能的强对流天气临近预报。我热爱科研，也热爱生活，致力于在探索与创新中不断成长。
 
 **Email**:w1842678637@163.com
 </div>

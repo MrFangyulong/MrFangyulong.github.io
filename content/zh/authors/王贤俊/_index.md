@@ -76,7 +76,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I am a second year graduate student conducting research on thunderstorm gusts in the radar inversion group.
+我目前是中国海洋大学硕士二年级研究生，隶属于雷达反演研究团队，主要从事雷暴大风的相关研究工作。
 
 **Email**:479960826@qq.com
 </div>

@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I am a master's degree candidate in Computer Technology at Ocean University of China, and my research focus is on Artificial Intelligence Oceanography.
+我目前在中国海洋大学攻读计算机技术硕士学位，研究方向主要为海洋人工智能，致力于利用人工智能技术促进海洋环境感知与智能分析的发展。
 
 **Email**:xuzhilin@stu.ouc.edu.cn
 </div>

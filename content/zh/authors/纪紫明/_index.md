@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I am a master's student at Ocean University of China under the supervision of Professor Zhang Wei. Prior to this, I earned my Bachelor's degree in Computer Science and Technology from Nanjing University of Information Science and Technology in 2025. My research focuses on convective storm nowcasting.
+我目前在中国海洋大学攻读硕士学位，师从张伟教授。本科毕业于南京信息工程大学计算机科学与技术专业（2025年获学士学位）。我的研究方向主要集中于对流风暴的临近预报与相关智能气象分析技术。
 
 **Email**:2322762993@qq.com
 </div>

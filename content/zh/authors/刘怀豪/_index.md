@@ -77,8 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I am currently a graduate student in Computer Technology at Ocean University of China, under the supervision of Professor Wei Zhang. I received my Bachelor’s degree in Intelligent Science and Technology from China University of Petroleum .
-My research focuses on Artificial Intelligence in Meteorology, where I aim to advance weather data analysis and forecasting through deep learning and computer vision techniques.
+我目前在中国海洋大学攻读计算机技术硕士学位，师从张巍教授。本科毕业于中国石油大学智能科学与技术专业，获学士学位。我的研究方向为气象人工智能，主要聚焦于通过深度学习与计算机视觉方法提升气象数据分析与天气预测的智能化水平。
 
 **Email**:1072116624@qq.com
 </div>

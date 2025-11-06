@@ -1,5 +1,5 @@
 ---
-title: 论文
+title: 发表论文
 view: citation
 banner:
   caption: ''

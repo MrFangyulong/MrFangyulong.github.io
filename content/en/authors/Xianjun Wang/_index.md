@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:479960826@qq.com'
+    link: 'mailto:wangxianjun@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -79,6 +79,6 @@ user_groups:
 
 I am a second year graduate student conducting research on thunderstorm gusts in the radar inversion group.
 
-**Email**:479960826@qq.com
+**Email**: wangxianjun@stu.ouc.edu.cn
 </div>
 

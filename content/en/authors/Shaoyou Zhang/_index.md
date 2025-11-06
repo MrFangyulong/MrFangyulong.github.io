@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zsy15668332717@163.com'
+    link: 'mailto:zhangshaoyou@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -79,6 +79,6 @@ user_groups:
 
 Hello! My name is Shaoyou Zhang, and I am currently a master's student at Ocean University of China, under the supervision of Professor Wei Zhang. I am a member of the Artificial Intelligence for Oceanography Research Group. My current research focuses on real-time bias correction in wind field forecasting. Driven by curiosity and a passion for continuous learning, I strive to contribute to the advancement of AI-driven ocean research through persistent practice and innovation.
 
-**Email**:zsy15668332717@163.com
+**Email**: zhangshaoyou@stu.ouc.edu.cn
 </div>
 

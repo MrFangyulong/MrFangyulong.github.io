@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:wlt@stu.ouc.edu.cn'
+    link: 'mailto:wlt5066@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -79,6 +79,6 @@ user_groups:
 
 I am currently pursuing my Master's degree at Ocean University of China, where I am under the guidance of Professor Zhang Wei. Prior to this, I completed my Bachelor's degree in Information Security at the School of Computer Science and Technology, Qingdao University, graduating in 2023. My current research focuses on severe convective nowcasting
 
-**Email**:wlt@stu.ouc.edu.cn
+**Email**: wlt5066@stu.ouc.edu.cn
 </div>
 

@@ -79,6 +79,6 @@ user_groups:
 
 I am a first-year graduate student in the Synthetic Weather Radar Group.
 
-**Email**:lly4175@stu.ouc.edu.cn
+**Email**: lly4175@stu.ouc.edu.cn
 </div>
 

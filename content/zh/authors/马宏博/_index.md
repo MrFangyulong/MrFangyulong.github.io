@@ -1,19 +1,19 @@
 ---
 # Display name
-title: 张嘉兴
+title: 马宏博
 
 # Full name (for SEO)
-first_name: 嘉兴
-last_name: 张
+first_name: 宏博
+last_name: 马
 
 # Username (this should match the folder name)
 authors:
-  - 张嘉兴
+  - 马宏博
 
 # Is this the primary user of the site?
 superuser: false
 
-# index: "Master2306"
+# index: "Master2504"
 
 # Role/position
 role: 2023级研究生
@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zhangjiaxing@stu.ouc.edu.cn'
+    link: 'mailto:mahongbo@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -77,8 +77,8 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-我是张嘉星，现为中国海洋大学软件工程硕士研究生，预计于2026年毕业。我的研究方向主要集中在卫星反演，目前从事GPU驱动相关工作。学术上，我的研究兴趣涵盖嵌入式系统，并已在ICGIP会议上发表论文。此外，我热爱音乐，生活积极向上。
+喜爱数学建模与人工智能各种新技术，主要研究方向是天气雷达合成，发表SCI二区《Robust Synthesis Weather Radar from Satellite Imagery: A Light/Dark Classification and Dual-Path Processing Approach》文章。热爱探索，热衷于新事物。喜爱历史，喜欢总结。
 
-**Email**: zhangjiaxing@stu.ouc.edu.cn
+**Email**: mahongbo@stu.ouc.edu.cn
 </div>
 

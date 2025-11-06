@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zsy15668332717@163.com'
+    link: 'mailto:zhangshaoyou@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -79,5 +79,5 @@ user_groups:
   
 你好！我是张少游，就读于中国海洋大学，师从张巍教授。我隶属于海洋人工智能课题组，目前的研究方向为风场预报实时偏差修正，秉持着好奇心与持续学习的精神，我希望能通过不断实践与创新，为海洋人工智能的发展贡献力量。
 
- **Email**:zsy15668332717@163.com
+ **Email**: zhangshaoyou@stu.ouc.edu.cn
 </div>

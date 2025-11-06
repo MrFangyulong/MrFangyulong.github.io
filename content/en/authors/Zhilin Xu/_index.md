@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zsy15668332717@163.com'
+    link: 'mailto:xuzhilin@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -79,6 +79,6 @@ user_groups:
 
 I am a master's degree candidate in Computer Technology at Ocean University of China, and my research focus is on Artificial Intelligence Oceanography.
 
-**Email**:xuzhilin@stu.ouc.edu.cn
+**Email**: xuzhilin@stu.ouc.edu.cn
 </div>
 

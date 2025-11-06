@@ -1,19 +1,19 @@
 ---
 # Display name
-title: 张嘉兴
+title: 刘强
 
 # Full name (for SEO)
-first_name: 嘉兴
-last_name: 张
+first_name: 强
+last_name: 刘
 
 # Username (this should match the folder name)
 authors:
-  - 张嘉兴
+  - 刘强
 
 # Is this the primary user of the site?
 superuser: false
 
-# index: "Master2306"
+# index: "Master2504"
 
 # Role/position
 role: 2023级研究生
@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zhangjiaxing@stu.ouc.edu.cn'
+    link: 'mailto:lq3600@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -77,8 +77,8 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-我是张嘉星，现为中国海洋大学软件工程硕士研究生，预计于2026年毕业。我的研究方向主要集中在卫星反演，目前从事GPU驱动相关工作。学术上，我的研究兴趣涵盖嵌入式系统，并已在ICGIP会议上发表论文。此外，我热爱音乐，生活积极向上。
+我是在中国海洋大学攻读硕士学位的研究生，师从张巍教授。在此之前，我于 2020 年毕业于闽南师范大学计算机学院，获得网络工程学士学位。我的研究方向主要聚焦于海面风场与波场的重建与预报。
 
-**Email**: zhangjiaxing@stu.ouc.edu.cn
+**Email**: lq3600@stu.ouc.edu.cn
 </div>
 

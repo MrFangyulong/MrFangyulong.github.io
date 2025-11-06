@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:w1842678637@163.com'
+    link: 'mailto:21230213288@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -79,6 +79,6 @@ user_groups:
 
 我叫王凯龙，是中国海洋大学的硕士研究生，师从张巍教授，隶属于智能人机计算与气象信息实验室（IHCLab）。我的研究主要聚焦于基于人工智能的强对流天气临近预报。我热爱科研，也热爱生活，致力于在探索与创新中不断成长。
 
-**Email**:w1842678637@163.com
+**Email**: 21230213288@stu.ouc.edu.cn
 </div>
 

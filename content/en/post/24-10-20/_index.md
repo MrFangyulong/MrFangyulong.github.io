@@ -1,5 +1,5 @@
 ---
-title: The Team’s Research Achievements Featured in a Special Report on the EarthAI Platform!
+title: The Team's Research Achievements Featured in a Special Report on the EarthAI Platform!
 date: 2024-10-20
 ---
 

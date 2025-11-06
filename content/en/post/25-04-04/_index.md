@@ -1,5 +1,5 @@
 ---
-title: Research Achievements of the Artificial Intelligence Research Institute on the “Marine Intelligent Decision-Making System” Receive Authoritative Coverage!
+title: Research Achievements of the Artificial Intelligence Research Institute on the "Marine Intelligent Decision-Making System" Receive Authoritative Coverage!
 date: 2025-04-04
 ---
 

@@ -15,9 +15,9 @@ a[href="/en/research/ocean-forecasting/"] > img {
 </style>
 
 <br> 
-Research on ocean–atmosphere dynamics, wave generation, and forecasting, with a focus on extreme weather impacts.
+研究海气动力过程、海浪生成与预报，重点关注极端天气的影响
 <!--more-->
-Our research focuses on the core dynamic processes at the ocean-atmosphere interface, with the primary goal of deepening understanding of the generation mechanisms, evolution patterns, and accurate forecasting of key marine meteorological elements.
-This field represents a highly interdisciplinary frontier that integrates physical oceanography, meteorology, and marine engineering. We not only investigate how wind drives the generation and development of ocean waves—including the physical mechanisms of wind wave generation, nonlinear interactions, and swell propagation—but also strive to understand the dramatic responses of the marine dynamic environment under the influence of extreme weather systems such as typhoons and extratropical cyclones.
+我们的研究聚焦于海气界面的核心动力过程，主要目标是深入理解关键海洋气象要素的生成机制、演化规律与精确预报方法。
+这一领域具有高度的交叉性，融合了物理海洋学、气象学和海洋工程等学科。我们不仅研究风如何驱动海浪的生成与发展——包括风浪生成的物理机制、非线性相互作用以及涌浪传播过程——还致力于揭示台风、温带气旋等极端天气系统作用下海洋动力环境的剧烈响应
 
 

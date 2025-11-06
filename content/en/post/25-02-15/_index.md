@@ -1,5 +1,5 @@
 ---
-title: The Team's “Digital Deep Blue” Marine Data Platform Technological Innovations Receive Industry Media Attention!
+title: The Team's "Digital Deep Blue" Marine Data Platform Technological Innovations Receive Industry Media Attention!
 date: 2025-02-15
 ---
 

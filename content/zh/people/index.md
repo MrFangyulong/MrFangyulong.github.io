@@ -22,7 +22,7 @@ sections:
 
   - block: markdown
     content:
-      title: Alumni
+      title: 毕业生
       text: |
         <table class="table table-hover" style="width: 100%; table-layout: fixed; border-collapse: collapse;">
           <colgroup>

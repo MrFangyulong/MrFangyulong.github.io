@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Papers
 view: citation
 banner:
   caption: ''

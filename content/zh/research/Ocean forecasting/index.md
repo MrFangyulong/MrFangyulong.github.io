@@ -1,5 +1,5 @@
 ---
-title: Ocean forecasting
+title: 海洋预报
 date: 2025-10-15
 ---
 

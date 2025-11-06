@@ -1,5 +1,5 @@
 ---
-title: The Team’s Research Achievements Featured in a Special Report on NetEase News!
+title: The Team's Research Achievements Featured in a Special Report on NetEase News!
 date: 2024-08-15
 ---
 

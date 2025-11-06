@@ -6,7 +6,7 @@
 en:
   languageCode: en-us
   contentDir: content/en
-  title: ihcil
+  title: IHCIL
   params:
     description: Welcome to our research site.
 
@@ -14,7 +14,7 @@ en:
 zh:
   languageCode: zh-Hans
   contentDir: content/zh
-  title: ihcil
+  title: IHCIL
   params:
     description: 欢迎访问我们的研究主页。
   

@@ -1,5 +1,5 @@
 ---
-title: 团队研究成果获EarthAI平台专题报道！
+title: Team’s Research Achievements Featured in a Special Report on the EarthAI Platform!
 date: 2024-11-10
 ---
 

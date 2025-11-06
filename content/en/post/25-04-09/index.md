@@ -3,6 +3,6 @@ title: The Faculty of Information Science and Engineering at OUC Achieves Breakt
 date: 2025-04-09
 ---
 
-[查看详情](http://eweb.ouc.edu.cn/2025/0409/c900a497875/page.htm) 
+[View Details](http://eweb.ouc.edu.cn/2025/0409/c900a497875/page.htm) 
 
 <!--more-->

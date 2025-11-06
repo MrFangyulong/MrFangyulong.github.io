@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # 网站基本信息
-title: ihcil Research Group # Website name
+title: IHCIL Research Group # Website name
 baseURL: 'https://ihcil.com/' # Website URL
 
 # LANGUAGE

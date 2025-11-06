@@ -1,26 +1,26 @@
 ---
 # Display name
-title: 张嘉兴
+title: Hongbo Ma
 
 # Full name (for SEO)
-first_name: 嘉兴
-last_name: 张
+first_name: Hongbo
+last_name: Ma
 
 # Username (this should match the folder name)
 authors:
-  - 张嘉兴
+  - Hongbo Ma
 
 # Is this the primary user of the site?
 superuser: false
 
-# index: "Master2306"
+# index: "Master2504"
 
 # Role/position
-role: 2023级研究生
+role: Master Student in 2023
 
 # Organizations/Affiliations
 organizations:
-  - name: 中国海洋大学
+  - name: Ocean University of China
     url: 'https://www.ouc.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zhangjiaxing@stu.ouc.edu.cn'
+    link: 'mailto:mahongbo@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -72,13 +72,13 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 研究生
+  - Master Students
 ---
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-我是张嘉星，现为中国海洋大学软件工程硕士研究生，预计于2026年毕业。我的研究方向主要集中在卫星反演，目前从事GPU驱动相关工作。学术上，我的研究兴趣涵盖嵌入式系统，并已在ICGIP会议上发表论文。此外，我热爱音乐，生活积极向上。
+Passionate about mathematical modeling and emerging technologies in artificial intelligence, with primary research focused on weather radar synthesis. Published an SCI Zone II paper titled “Robust Synthesis Weather Radar from Satellite Imagery: A Light/Dark Classification and Dual-Path Processing Approach.” Enthusiastic about exploration and innovation, with a deep interest in history and a strong inclination toward reflection and synthesis of knowledge.
 
-**Email**: zhangjiaxing@stu.ouc.edu.cn
+**Email**: mahongbo@stu.ouc.edu.cn
 </div>
 

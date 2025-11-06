@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zsy15668332717@163.com'
+    link: 'mailto:xuzhilin@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -79,6 +79,6 @@ user_groups:
 
 我目前在中国海洋大学攻读计算机技术硕士学位，研究方向主要为海洋人工智能，致力于利用人工智能技术促进海洋环境感知与智能分析的发展。
 
-**Email**:xuzhilin@stu.ouc.edu.cn
+**Email**: xuzhilin@stu.ouc.edu.cn
 </div>
 

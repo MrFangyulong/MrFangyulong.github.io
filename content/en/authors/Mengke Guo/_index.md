@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:gmk0629@163.com'
+    link: 'mailto:guomengke@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -80,6 +80,6 @@ user_groups:
 I am a master's student at Ocean University of China under the supervision of Professor Zhang
  Wei.I received my Bachelor's degree in Computer Science and Technology from Zhengzhou University. My research is in the field of maritime severe convective weather nowcasting. 
 
-**Email**: gmk0629@163.com
+**Email**: guomengke@stu.ouc.edu.cn
 </div>
 

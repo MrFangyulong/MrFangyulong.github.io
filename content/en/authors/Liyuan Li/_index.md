@@ -79,6 +79,6 @@ user_groups:
 
 I am a master's student at Ocean University of China under the supervision of Professor Zhang Wei. Prior to this, I earned my Bachelor's degree in Computer Science and Technology from the School of Computer Science and Technology at Shandong Jianzhu University in 2021. My research focuses on severe convection nowcasting
 
-**Email**:lly4175@stu.ouc.edu.cn
+**Email**: lly4175@stu.ouc.edu.cn
 </div>
 

@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:2322762993@qq.com'
+    link: 'mailto:wangxianjun@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -79,6 +79,6 @@ user_groups:
 
 我目前在中国海洋大学攻读硕士学位，师从张伟教授。本科毕业于南京信息工程大学计算机科学与技术专业（2025年获学士学位）。我的研究方向主要集中于对流风暴的临近预报与相关智能气象分析技术。
 
-**Email**:2322762993@qq.com
+**Email**: wangxianjun@stu.ouc.edu.cn
 </div>
 

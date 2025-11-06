@@ -79,6 +79,6 @@ user_groups:
 
 My name is Zhang Jiaxing. I am male and I have a passion for music. I am currently unmarried. I am a master's student in software engineering at OUC, graduating in 2026. My research focus is on satellite inversion studies. I have published a paper in the ICGIP conference. My academic focus has mainly been on embedded systems, and currently, I am engaged in GPU driver-related work.
 
-**Email**:zhangjiaxing@stu.ouc.edu.cn
+**Email**: zhangjiaxing@stu.ouc.edu.cn
 </div>
 

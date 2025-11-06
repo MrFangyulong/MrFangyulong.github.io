@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:1072116624@qq.com'
+    link: 'mailto:21240213196@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -79,6 +79,6 @@ user_groups:
 
 我目前在中国海洋大学攻读计算机技术硕士学位，师从张巍教授。本科毕业于中国石油大学智能科学与技术专业，获学士学位。我的研究方向为气象人工智能，主要聚焦于通过深度学习与计算机视觉方法提升气象数据分析与天气预测的智能化水平。
 
-**Email**:1072116624@qq.com
+**Email**: 21240213196@stu.ouc.edu.cn
 </div>
 

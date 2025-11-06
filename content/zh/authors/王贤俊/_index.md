@@ -49,7 +49,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:479960826@qq.com'
+    link: 'mailto:wangxianjun@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -78,6 +78,6 @@ user_groups:
 
 我目前是中国海洋大学硕士二年级研究生，隶属于雷达反演研究团队，主要从事雷暴大风的相关研究工作。
 
-**Email**:479960826@qq.com
+**Email**: wangxianjun@stu.ouc.edu.cn
 </div>
 

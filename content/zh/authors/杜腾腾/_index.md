@@ -1,22 +1,22 @@
 ---
 # Display name
-title: 张嘉兴
+title: 杜腾腾
 
 # Full name (for SEO)
-first_name: 嘉兴
-last_name: 张
+first_name: 腾腾
+last_name: 杜
 
 # Username (this should match the folder name)
 authors:
-  - 张嘉兴
+  - 杜腾腾
 
 # Is this the primary user of the site?
 superuser: false
 
-# index: "Master2306"
+# index: "Master2504"
 
 # Role/position
-role: 2023级研究生
+role: 2024级研究生
 
 # Organizations/Affiliations
 organizations:
@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zhangjiaxing@stu.ouc.edu.cn'
+    link: 'mailto:dutengteng@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -77,8 +77,8 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-我是张嘉星，现为中国海洋大学软件工程硕士研究生，预计于2026年毕业。我的研究方向主要集中在卫星反演，目前从事GPU驱动相关工作。学术上，我的研究兴趣涵盖嵌入式系统，并已在ICGIP会议上发表论文。此外，我热爱音乐，生活积极向上。
+我是一名硕士二年级研究生，目前在海洋课题组从事雷暴大风相关研究。
 
-**Email**: zhangjiaxing@stu.ouc.edu.cn
+**Email**: dutengteng@stu.ouc.edu.cn
 </div>
 

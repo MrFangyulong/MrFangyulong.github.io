@@ -1,5 +1,5 @@
 ---
-title: The Faculty of Information Science and Engineering at OUC Achieves Breakthrough Progress in the Field of Smart Ocean — Featured on OUC’s English News Portal!
+title: The Faculty of Information Science and Engineering at OUC Achieves Breakthrough Progress in the Field of Smart Ocean — Featured on OUC's English News Portal!
 date: 2025-04-09
 ---
 

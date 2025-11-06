@@ -20,7 +20,7 @@ main:
   - name: 论文
     url: papers 
     weight: 50
-  - name: 研究成果
+  - name: 研究方向
     url: research
     weight: 60
   - name: 联系我们

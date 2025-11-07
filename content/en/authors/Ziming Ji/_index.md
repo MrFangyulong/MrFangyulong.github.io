@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:2322762993@qq.com'
+    link: 'mailto:21250211057@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -79,6 +79,6 @@ user_groups:
 
 I am a master's student at Ocean University of China under the supervision of Professor Zhang Wei. Prior to this, I earned my Bachelor's degree in Computer Science and Technology from Nanjing University of Information Science and Technology in 2025. My research focuses on convective storm nowcasting.
 
-**Email**:2322762993@qq.com
+**Email**: 21250211057@stu.ouc.edu.cn
 </div>
 

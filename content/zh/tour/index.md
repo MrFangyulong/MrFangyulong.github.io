@@ -41,7 +41,7 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Take a Look at Our Achievements
+          text: 看看我们的成果！
           url: ../post/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')

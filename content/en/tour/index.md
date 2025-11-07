@@ -28,7 +28,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Intelligent Human-Computer Interaction Lab
+      - title: Intelligent Human-Computer Interaction Lab 🧑‍💻
         content: 'At the Forefront of the Field!'
         align: right
         background:

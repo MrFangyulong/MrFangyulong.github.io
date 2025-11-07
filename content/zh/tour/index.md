@@ -28,7 +28,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: 智能人机交互实验室
+      - title: 智能人机交互实验室 🧑‍💻
         content: '走在领域前沿！'
         align: right
         background:

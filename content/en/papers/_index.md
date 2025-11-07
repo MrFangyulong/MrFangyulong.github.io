@@ -8,10 +8,9 @@ banner:
 
 ## 📚 2025
 
-J36. **[GEOINFORMATICA]** <span style="color:rgb(0, 130, 196);">"**$\text{MA}^2\text{Traj}$: Robust Synthesis Weather Radar from Satellite Imagery: A Light/Dark Classification and Dual-Path Processing Approach**"</span>     
-   Hongbo Ma; Yanhai Gan; Junyu Dong; Renbo Pang; Xiaojiang Song; Cong Liu; Hongmei **Wei Zhang***     
-   *GeoInformatica*, (**CCF B**)       
-   [📄 DOI](10.3390/rs17213609) | [💻 Code](#) | [📑 Cite](#)
+**[Remote Sensing]** <span style="color:rgb(0, 130, 196);">"**$\text{MA}^2\text{Traj}$: Robust Synthesis Weather Radar from Satellite Imagery: A Light/Dark Classification and Dual-Path Processing Approach**"</span>     
+   Hongbo Ma; Yanhai Gan; Junyu Dong; Renbo Pang; Xiaojiang Song; Cong Liu; Hongmei **Wei Zhang**            
+   [📄 DOI](10.3390/rs17213609)
 
 J35. **[KBS]** <span style="color:rgb(0, 130, 196);">"**Local High-order Structure-aware Graph Neural Network for Motif Prediction**"</span>      
    Wen Yang#, Xiang Li#, Bin Wang, Jianpeng Qi, Zhongying Zhao, Peilan He, **Yanwei Yu***     

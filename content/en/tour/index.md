@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Research & Learn ☕️
+      - title: Research & Learn 🖥️️
         content: 'Share your expertise with others and explore exciting new directions together!'
         align: left
         background:

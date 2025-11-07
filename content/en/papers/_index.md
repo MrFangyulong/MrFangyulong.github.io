@@ -9,7 +9,7 @@ banner:
 ## 📚 2025
 
 **[Remote Sensing]** <span style="color:rgb(0, 130, 196);">"**Robust Synthesis Weather Radar from Satellite Imagery: A Light/Dark Classification and Dual-Path Processing Approach**"</span>     
-   Hongbo Ma; Yanhai Gan; Junyu Dong; Renbo Pang; Xiaojiang Song; Cong Liu; Hongmei **Wei Zhang***            
+   Hongbo Ma; Yanhai Gan; Junyu Dong; Renbo Pang; Xiaojiang Song; Cong Liu; Hongmei; **Wei Zhang***            
    📄 DOI: [10.3390/rs17213609](https://www.mdpi.com/2072-4292/17/21/3609)
 
 J35. **[KBS]** <span style="color:rgb(0, 130, 196);">"**Local High-order Structure-aware Graph Neural Network for Motif Prediction**"</span>      

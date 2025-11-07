@@ -1,6 +1,6 @@
 ---
-title: Tour
-date: 2022-10-24
+title: 导览
+date: 2025-11-7
 
 type: landing
 
@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 欢迎来到 IHCIL！
+        content: '看看我们的最新研究成果……'
         align: center
         background:
           image:
@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: 研究 & 探索 ☕️
+        content: '与他人分享你的专业见解，共同探索令人振奋的新方向！'
         align: left
         background:
           image:
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: 智能人机交互实验室
+        content: '走在领域前沿！'
         align: right
         background:
           image:
@@ -41,8 +41,8 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          text: Take a Look at Our Achievements
+          url: ../post/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''

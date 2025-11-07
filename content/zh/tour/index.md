@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: 研究 & 探索 ☕️
+      - title: 研究 & 探索 🖥️
         content: '与他人分享你的专业见解，共同探索令人振奋的新方向！'
         align: left
         background:

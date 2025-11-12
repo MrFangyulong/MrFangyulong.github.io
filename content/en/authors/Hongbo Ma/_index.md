@@ -13,7 +13,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-# index: "Master2504"
+index: "Master2303"
 
 # Role/position
 role: Master Student in 2023
@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:mahongbo@stu.ouc.edu.cn'
+    link: 'mailto:1533177806@qq.com'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -77,8 +77,8 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-Passionate about mathematical modeling and emerging technologies in artificial intelligence, with primary research focused on weather radar synthesis. Published an SCI Zone II paper titled “Robust Synthesis Weather Radar from Satellite Imagery: A Light/Dark Classification and Dual-Path Processing Approach.” Enthusiastic about exploration and innovation, with a deep interest in history and a strong inclination toward reflection and synthesis of knowledge.
+I have a passion for mathematical modeling and various new technologies in artificial intelligence, with a primary research focus on weather radar synthesis. I have published an SCI Zone 2 paper titled Robust Synthesis Weather Radar from Satellite Imagery: A Light/Dark Classification and Dual-Path Processing Approach. I am enthusiastic about exploration and new things, and I also love history and enjoy summarizing experiences and insights.
 
-**Email**: mahongbo@stu.ouc.edu.cn
+**Email**:mhb@qq.com
 </div>
 

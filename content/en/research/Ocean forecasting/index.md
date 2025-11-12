@@ -14,9 +14,8 @@ a[href="/en/research/ocean-forecasting/"] > img {
 }
 </style>
 
-<br> 
-Research on ocean–atmosphere dynamics, wave generation, and forecasting, with a focus on extreme weather impacts.
-<!--more-->
+<br>   
 Our research focuses on the core dynamic processes at the ocean-atmosphere interface, with the primary goal of deepening understanding of the generation mechanisms, evolution patterns, and accurate forecasting of key marine meteorological elements.
 This field represents a highly interdisciplinary frontier that integrates physical oceanography, meteorology, and marine engineering. We not only investigate how wind drives the generation and development of ocean waves—including the physical mechanisms of wind wave generation, nonlinear interactions, and swell propagation—but also strive to understand the dramatic responses of the marine dynamic environment under the influence of extreme weather systems such as typhoons and extratropical cyclones.
+<!--more-->
 

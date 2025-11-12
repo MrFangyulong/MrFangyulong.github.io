@@ -7,3 +7,41 @@
 .cta-group {
   justify-content: center;
 }
+
+
+// ============================================
+// Research 列表项美化
+// ============================================
+.media.stream-item.view-compact {
+  align-items: flex-start;
+  gap: 1.25rem;
+  padding: 1.5rem;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+  margin-bottom: 1rem;
+  
+  &:hover {
+    background-color: #f8f9fa;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  }
+}
+
+.media.stream-item.view-compact .ml-3 {
+  margin-top: 0;
+  flex-shrink: 0;
+}
+
+.media.stream-item.view-compact .ml-3 img {
+  height: 160px;
+  width: auto;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  
+  &:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  }
+}
+

@@ -3,20 +3,21 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-# 网站基本信息
-title: IHCIL Research Group # Website name
-baseURL: 'https://ihcil.com/' # Website URL
+title: IHCIL@OUC # Website name
+baseURL: 'http://localhost:1313/' # Website URL
 
-# LANGUAGE
-# 语言设置
+############################
+## LANGUAGE
+############################
 
-defaultContentLanguage: en
-hasCJKLanguage: true
-defaultContentLanguageInSubdir: true
+defaultContentLanguage: zh
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
 removePathAccents: true
 
-# ADVANCED
-# 高级设置
+############################
+## ADVANCED
+############################
 
 enableGitInfo: false
 summaryLength: 30
@@ -26,40 +27,25 @@ enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
-
-# 永久链接
-
 permalinks:
   authors: '/author/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
 disableAliases: true
-
-# 输出格式
-
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
-
-# 图像处理
-
 imaging:
   resampleFilter: lanczos
   quality: 75
   anchor: smart
 timeout: 600000
-
-# 分类体系
-
 taxonomies:
   tag: tags
   category: categories
   publication_type: publication_types
   author: authors
-
-# Markup和相关文章
-
 markup:
   _merge: deep
 related:

@@ -13,7 +13,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-# index: "Master2402"
+index: "Master2402"
 
 # Role/position
 role: Master Student in 2024
@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:wangxianjun@stu.ouc.edu.cn'
+    link: 'mailto:479960826@qq.com'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -79,6 +79,6 @@ user_groups:
 
 I am a second year graduate student conducting research on thunderstorm gusts in the radar inversion group.
 
-**Email**: wangxianjun@stu.ouc.edu.cn
+**Email**:479960826@qq.com
 </div>
 

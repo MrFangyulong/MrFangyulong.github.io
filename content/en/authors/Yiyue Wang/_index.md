@@ -8,12 +8,12 @@ last_name: Wang
 
 # Username (this should match the folder name)
 authors:
-  - Yiyue
+  - Yiyue Wang
 
 # Is this the primary user of the site?
 superuser: false
 
-# index: "Master2503"
+index: "Master2503"
 
 # Role/position
 role: Master Student in 2025
@@ -79,6 +79,6 @@ user_groups:
 
 I am a first-year graduate student in the Synthetic Weather Radar Group.
 
-**Email**: lly4175@stu.ouc.edu.cn
+**Email**:lly4175@stu.ouc.edu.cn
 </div>
 

@@ -4,85 +4,71 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-# 外观设置
+
 appearance:
-  theme_day: minimal
+  theme_day: Forest  # Ocean、Minimal、
   theme_night:
   font: native
-  font_size: L
+  font_size: L # xs, s, m, l, xl.
+  mode: light
 
 # SEO
-#搜索引擎优化
-marketing:
-  en:
-    seo:
-      site_type: Organization
-      local_business_type: ''
-      org_name: 'My Research Group'
-      description: 'Welcome to our research group website powered by Wowchemy.'
-      twitter: 'GetResearchDev'
-    analytics:
-      google_analytics: ''
-      baidu_tongji: ''
-      google_tag_manager: ''
-      microsoft_clarity: ''
-    verification:
-      google: ''
-      baidu: ''
-  zh:
-    seo:
-      site_type: Organization
-      local_business_type: ''
-      org_name: '我的研究组'
-      description: '欢迎访问我们的研究组网站，由 Wowchemy 构建。'
-      twitter: 'GetResearchDev'
-    analytics:
-      google_analytics: ''
-      baidu_tongji: ''
-      google_tag_manager: ''
-      microsoft_clarity: ''
-    verification:
-      google: ''
-      baidu: ''
 
+marketing:
+  seo:
+    site_type: Organization
+    local_business_type: ''
+    org_name: 'IHCIL@OUC'
+    description: 'IHCIL Laboratory - Intelligent Health Computing and Information Laboratory at Ocean University of China'
+    twitter: ''
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
+  verification:
+    google: ''
+    baidu: ''
 
 # Site header
-# 页眉配置
+
 header:
+  #选择一个导航块
   navbar:
-    enable: true
-    align: r
-    show_logo: true
-    show_language: true
-    show_day_night: true
-    show_search: true
-    highlight_active_link: false
+    enable: true #显示导航栏？
+    align: r #对齐菜单链接：左（l）、中（c）或右（r）
+    show_logo: true #在导航栏中显示您的网站标题或"assets/media/logo*"图像？
+    logo:  # ← 新增logo配置
+      image: "images/logo.jpg"  # 路径相对于static/目录
+      # image_dark: "images/logo-dark.png"  # 可选暗色模式logo
+      width: 30px  # 建议宽度
+      height: auto  # 保持比例
+      alt: "IHCIL@OUC"  # 替代文本
+    show_language: false  # 禁用语言切换功能
+    show_day_night: true # Let the user override the default light/dark mode of your theme?
+    show_search: true  # Let the user search from the nav bar?
+    highlight_active_link: false  # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
 
 # Site footer
-# 页脚配置
+
 footer:
   copyright:
-    notice: '© {year} ihcil. This work is licensed under {license}'
+    notice: '© {year} IHCIL Laboratory, Ocean University of China | No.1299, Sansha Road, Huangdao District, Qingdao, Shandong Province'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
-# 本地化
+
 locale:
-  en:
-    date_format: 'Jan 2, 2006'
-    time_format: '3:04 PM'
-    address_format: en-us
-  zh:
-    date_format: '2006年1月2日'
-    time_format: '15:04'
-    address_format: zh-cn
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  address_format: en-us
 
 # Site features
-# 站点功能
+
 features:
   syntax_highlighter:
     enable: false
@@ -90,11 +76,11 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/MrFangyulong/MrFangyulong.github.io'
+    url: 'https://github.com/<username>/<repository>'
     content_dir: content
     branch: main
   avatar:
@@ -120,12 +106,12 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapnik'
+    provider: ''
     api_key: ''
     zoom: 15
 
 # Extensions
-# 扩展模块
+
 extensions:
   decap_cms:
     branch: main
@@ -134,7 +120,7 @@ extensions:
     enable: true
 
 # Citation style
-# 引用风格
+
 publications:
   date_format: January 2006
   citation_style: apa

@@ -13,7 +13,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-# index: "Master2504"
+index: "Master2306"
 
 # Role/position
 role: Master Student in 2023
@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:21230213184@stu.ouc.edu.cn'
+    link: 'mailto:lxr@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -77,8 +77,8 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-Research Focus: Nowcasting of severe convective weather systems; first-generation successor of the Codebook framework.
+I am a second year graduate student conducting research on thunderstorm gusts in the radar inversion group.
 
-**Email**: 21230213184@stu.ouc.edu.cn
+**Email**:lxr@stu.ouc.edu.cn
 </div>
 

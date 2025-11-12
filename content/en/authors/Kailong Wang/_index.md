@@ -13,7 +13,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-# index: "Master2302"
+index: "Master2302"
 
 # Role/position
 role: Master Student in 2023
@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:21230213288@stu.ouc.edu.cn'
+    link: 'mailto:w1842678637@163.com'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -79,6 +79,6 @@ user_groups:
 
 My name is Cayron, a Master's student at Ocean University of China. My research in Professor Zhang Wei's lab, ihcil, centers on AI-driven nowcasting of severe convective weather. I have a strong passion for both scientific inquiry and life.
 
-**Email**: 21230213288@stu.ouc.edu.cn
+**Email**:w1842678637@163.com
 </div>
 

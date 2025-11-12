@@ -13,7 +13,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-# index: "Master2404"
+index: "Master2404"
 
 # Role/position
 role: Master Student in 2024
@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:21240213196@stu.ouc.edu.cn'
+    link: 'mailto:1072116624@qq.com'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -80,6 +80,6 @@ user_groups:
 I am currently a graduate student in Computer Technology at Ocean University of China, under the supervision of Professor Wei Zhang. I received my Bachelor’s degree in Intelligent Science and Technology from China University of Petroleum .
 My research focuses on Artificial Intelligence in Meteorology, where I aim to advance weather data analysis and forecasting through deep learning and computer vision techniques.
 
-**Email**: 21240213196@stu.ouc.edu.cn
+**Email**:1072116624@qq.com
 </div>
 

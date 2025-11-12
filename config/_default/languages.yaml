@@ -2,19 +2,34 @@
 #   Create a section for each of your site's languages.
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
-# 多语言配置
+# Default language
 en:
   languageCode: en-us
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
-  title: IHCIL
-  params:
-    description: Welcome to our research site.
 
-
+# Uncomment the lines below to configure your website in a second language.
 zh:
   languageCode: zh-Hans
   contentDir: content/zh
-  title: IHCIL
-  params:
-    description: 欢迎访问我们的研究主页。
   
+  title: IHCIL@OUC | 中国海洋大学
+  params:
+    description: 欢迎来到中国海洋大学IHCIL实验室的主页！
+  menu:
+    main:
+     - name: 近期动态
+       url: news
+       weight: 10  
+     - name: 团队成员
+       url: people
+       weight: 20
+     - name: 科研论文
+       url: papers
+       weight: 30
+     - name: 科研方向
+       url: research
+       weight: 40    
+     - name: 联系我们
+       url: contact
+       weight: 50

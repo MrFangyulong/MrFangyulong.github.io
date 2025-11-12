@@ -13,7 +13,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-# index: "Master2401"
+index: "Master2401"
 
 # Role/position
 role: Master Student in 2024
@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:guomengke@stu.ouc.edu.cn'
+    link: 'mailto:gmk0629@163.com'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -77,9 +77,8 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I am a master's student at Ocean University of China under the supervision of Professor Zhang
- Wei.I received my Bachelor's degree in Computer Science and Technology from Zhengzhou University. My research is in the field of maritime severe convective weather nowcasting. 
+I am currently a master\'s student at the School of Computer Science and Technology, Ocean University of China, under the supervision of Yanwei Yu. I obtained a Bachelor\'s degree in Geographic Information Science from Shandong Normal University in 2021.
 
-**Email**: guomengke@stu.ouc.edu.cn
+**Email**: gmk0629@163.com
 </div>
 

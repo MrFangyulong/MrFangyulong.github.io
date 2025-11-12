@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Shaoyou Zhang
+title: Yiyue Wang
 
 # Full name (for SEO)
-first_name: Shaoyou
-last_name: Zhang
+first_name: Yiyue
+last_name: Wang
 
 # Username (this should match the folder name)
 authors:
-  - Shaoyou Zhang
+  - Yiyue Wang
 
 # Is this the primary user of the site?
 superuser: false
 
-# index: "Master2504"
+index: "Master2504"
 
 # Role/position
 role: Master Student in 2025

@@ -1,9 +1,8 @@
 ---
 # Display name
 title: Qiang Liu
-
 # Full name (for SEO)
-first_name: Qiang
+first_name: Qiang 
 last_name: Liu
 
 # Username (this should match the folder name)
@@ -13,7 +12,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-# index: "Master2504"
+index: "Master2309"
 
 # Role/position
 role: Master Student in 2023

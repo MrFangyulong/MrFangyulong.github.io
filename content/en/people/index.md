@@ -1,25 +1,30 @@
 ---
 title: People
-date: 2025-11-07
+date: 2022-10-24
 
 type: landing
 
 sections:
   - block: people
     content:
-      title: Meet the Team
+      title: People
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Professor
+          - Supervisors
           - Master Students
-      sort_by: Params.last_name
+      sort_by: Params.index
       sort_ascending: true
     design:
-      show_interests: false
-      show_role: false
-      show_social: false
-
+      show_interests: false # Show user's interests? (true/false)
+      show_role: true # Show user's role?
+      show_social: true # Show user's social networking links? (true/false)
+      # spacing:
+        # padding: ['100rem', '0', '100rem', '0'] # 调整上下间距为2rem
+        # margin: ['100rem', '0', '100rem', '0']  # 调整上下边距为2rem
+      # spacing: 
+      #   padding: ["100px", "0", "100px", "0"]
+  
   - block: markdown
     content:
       title: Alumni
@@ -43,12 +48,70 @@ sections:
           </thead>
           <tbody>
             <tr style="border-bottom: 1px solid #dee2e6;">
-              <td style="border: none; padding: 0.75rem;">2015</td>
-              <td style="border: none; padding: 0.75rem;">齐建鹏</td>
-              <td style="border: none; padding: 0.75rem;">IJDSN（一作，中科院四区），浙大学报(工学版)（一作，EI），SocialCom（一作，EI）</td>
-              <td style="border: none; padding: 0.75rem;">北京科技大学读博</td>
-              <td style="border: none; padding: 0.75rem;">中国海洋大学</td>
+              <td style="border: none; padding: 0.75rem;">2021</td>
+              <td style="border: none; padding: 0.75rem;">罗沐奇</td>
+              <td style="border: none; padding: 0.75rem;"></td>
+              <td style="border: none; padding: 0.75rem;">山东省移动创新研究院</td>
+              <td style="border: none; padding: 0.75rem;">山东省移动创新研究院</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #dee2e6;">
+              <td style="border: none; padding: 0.75rem;">2021</td>
+              <td style="border: none; padding: 0.75rem;">吴亚鹏</td>
+              <td style="border: none; padding: 0.75rem;">RS</td>
+              <td style="border: none; padding: 0.75rem;">北京百度网讯科技有限公司</td>
+              <td style="border: none; padding: 0.75rem;">北京百度网讯科技有限公司</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #dee2e6;">
+              <td style="border: none; padding: 0.75rem;">2021</td>
+              <td style="border: none; padding: 0.75rem;">杨晓</td>
+              <td style="border: none; padding: 0.75rem;"></td>
+              <td style="border: none; padding: 0.75rem;">山东电工电气集团数字科技有限公司</td>
+              <td style="border: none; padding: 0.75rem;">山东电工电气集团数字科技有限公司</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #dee2e6;">
+              <td style="border: none; padding: 0.75rem;">2021</td>
+              <td style="border: none; padding: 0.75rem;">文友奇</td>
+              <td style="border: none; padding: 0.75rem;"></td>
+              <td style="border: none; padding: 0.75rem;">中联重科有限公司</td>
+              <td style="border: none; padding: 0.75rem;">中联重科有限公司</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #dee2e6;">
+              <td style="border: none; padding: 0.75rem;">2022</td>
+              <td style="border: none; padding: 0.75rem;">郜述鑫</td>
+              <td style="border: none; padding: 0.75rem;"></td>
+              <td style="border: none; padding: 0.75rem;">山东省农村信用联合社</td>
+              <td style="border: none; padding: 0.75rem;">山东省农村信用联合社</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #dee2e6;">
+              <td style="border: none; padding: 0.75rem;">2022</td>
+              <td style="border: none; padding: 0.75rem;">范昆昆</td>
+              <td style="border: none; padding: 0.75rem;">RS</td>
+              <td style="border: none; padding: 0.75rem;">山东省农村信用联合社</td>
+              <td style="border: none; padding: 0.75rem;">山东省农村信用联合社</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #dee2e6;">
+              <td style="border: none; padding: 0.75rem;">2022</td>
+              <td style="border: none; padding: 0.75rem;">张新宇</td>
+              <td style="border: none; padding: 0.75rem;">ISPRS、JSTARS</td>
+              <td style="border: none; padding: 0.75rem;">青岛市农业农村局</td>
+              <td style="border: none; padding: 0.75rem;">青岛市农业农村局</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #dee2e6;">
+              <td style="border: none; padding: 0.75rem;">2022</td>
+              <td style="border: none; padding: 0.75rem;">王艺豪</td>
+              <td style="border: none; padding: 0.75rem;"></td>
+              <td style="border: none; padding: 0.75rem;">广东省河源市大数据局</td>
+              <td style="border: none; padding: 0.75rem;">广东省河源市大数据局</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #dee2e6;">
+              <td style="border: none; padding: 0.75rem;">2022</td>
+              <td style="border: none; padding: 0.75rem;">刘杰</td>
+              <td style="border: none; padding: 0.75rem;"></td>
+              <td style="border: none; padding: 0.75rem;">广东省惠州城市职业学院</td>
+              <td style="border: none; padding: 0.75rem;">广东省惠州城市职业学院</td>
             </tr>
           </tbody>
         </table>    
 ---
+
+

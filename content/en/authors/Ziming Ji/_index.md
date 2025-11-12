@@ -13,7 +13,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-# index: "Master2501"
+index: "Master2501"
 
 # Role/position
 role: Master Student in 2025
@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:21250211057@stu.ouc.edu.cn'
+    link: 'mailto:2322762993@qq.com'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -79,6 +79,6 @@ user_groups:
 
 I am a master's student at Ocean University of China under the supervision of Professor Zhang Wei. Prior to this, I earned my Bachelor's degree in Computer Science and Technology from Nanjing University of Information Science and Technology in 2025. My research focuses on convective storm nowcasting.
 
-**Email**: 21250211057@stu.ouc.edu.cn
+**Email**:2322762993@qq.com
 </div>
 

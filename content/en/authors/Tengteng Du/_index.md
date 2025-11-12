@@ -13,7 +13,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-# index: "Master2504"
+index: "Master2404"
 
 # Role/position
 role: Master Student in 2024
@@ -77,8 +77,8 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I am a second year graduate student conducting research on thunderstorm gusts in the Ocean group.
+I am a second year graduate student conducting research on Ocean focatsing in the Ocean group.
 
-**Email**: dutengteng@stu.ouc.edu.cn
+**Email**:dutengteng@stu.ouc.edu.cn
 </div>
 

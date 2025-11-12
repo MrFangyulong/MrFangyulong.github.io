@@ -13,7 +13,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-# index: "Master2304"
+index: "Master2305"
 
 # Role/position
 role: Master Student in 2023
@@ -79,6 +79,6 @@ user_groups:
 
 I am a master's degree candidate in Computer Technology at Ocean University of China, and my research focus is on Artificial Intelligence Oceanography.
 
-**Email**: xuzhilin@stu.ouc.edu.cn
+**Email**:xuzhilin@stu.ouc.edu.cn
 </div>
 

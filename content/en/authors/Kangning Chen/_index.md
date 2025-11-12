@@ -13,7 +13,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-# index: "Master2504"
+index: "Master2403"
 
 # Role/position
 role: Master Student in 2024
@@ -79,6 +79,6 @@ user_groups:
 
 I am a second-year graduate student majoring in Computer Technology, and my research focuses on nowcasting of severe convection.
 
-**Email**: chenkangning@stu.ouc.edu.cn
+**Email**:chenkangning@stu.ouc.edu.cn
 </div>
 
